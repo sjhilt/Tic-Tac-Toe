@@ -43,6 +43,7 @@ Check it out here: **[https://stephenhilt.com/tictac/]** 🎮
 │── index.html   # Game layout
 │── style.css    # Styling & design
 │── script.js    # Game logic & AI
+│── tictac.py    # Python version of the game
 └── README.md    # Documentation
 ```
 
