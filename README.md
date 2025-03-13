@@ -33,7 +33,7 @@ Check it out here: **[https://stephenhilt.com/tictac/]** 🎮
    ```
 2. **Navigate into the project folder:**
    ```sh
-   cd tic-tac-toe
+   cd Tic-Tac-Toe
    ```
 3. **Open `index.html` in your browser and start playing!**
 
